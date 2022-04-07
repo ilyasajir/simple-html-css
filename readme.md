@@ -1,5 +1,5 @@
 # SIMPLE WEBPAGE USING HTML AND CSS
 
-![user interface](Header.jpg?raw=true "header")
-![user interface](content.jpg?raw=true "content lesson")
-![user interface](message-and-footer.jpg?raw=true "message-and-footer")
+![user interface](Header.JPG?raw=true "header")
+![user interface](content.JPG?raw=true "lesson content")
+![user interface](message-and-footer.JPG?raw=true "message-and-footer")
